@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Pazyxx/textTranslator/static/css/main.a7013c88.css",
-    "main.js": "/Pazyxx/textTranslator/static/js/main.bfbc5ebe.js",
-    "static/js/787.cab2cbb6.chunk.js": "/Pazyxx/textTranslator/static/js/787.cab2cbb6.chunk.js",
-    "static/media/background.jpg": "/Pazyxx/textTranslator/static/media/background.7a2c2983e680dfbc57dc.jpg",
-    "index.html": "/Pazyxx/textTranslator/index.html",
-    "main.a7013c88.css.map": "/Pazyxx/textTranslator/static/css/main.a7013c88.css.map",
-    "main.bfbc5ebe.js.map": "/Pazyxx/textTranslator/static/js/main.bfbc5ebe.js.map",
-    "787.cab2cbb6.chunk.js.map": "/Pazyxx/textTranslator/static/js/787.cab2cbb6.chunk.js.map"
+    "main.css": "/textTranslator/static/css/main.0b704aee.css",
+    "main.js": "/textTranslator/static/js/main.778192e8.js",
+    "static/js/787.cab2cbb6.chunk.js": "/textTranslator/static/js/787.cab2cbb6.chunk.js",
+    "static/media/background.jpg": "/textTranslator/static/media/background.7a2c2983e680dfbc57dc.jpg",
+    "index.html": "/textTranslator/index.html",
+    "main.0b704aee.css.map": "/textTranslator/static/css/main.0b704aee.css.map",
+    "main.778192e8.js.map": "/textTranslator/static/js/main.778192e8.js.map",
+    "787.cab2cbb6.chunk.js.map": "/textTranslator/static/js/787.cab2cbb6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7013c88.css",
-    "static/js/main.bfbc5ebe.js"
+    "static/css/main.0b704aee.css",
+    "static/js/main.778192e8.js"
   ]
 }
