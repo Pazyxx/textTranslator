@@ -1,38 +1,65 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.main{
+  font-size: 1.25em;
+  font-family: "inconsolata", sans-serif;
+  margin-top: 30px;
+  width: 80vw;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
 }
 
-.App-link {
-  color: #61dafb;
+.option{
+  max-width: 600px;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+button{
+  width: 100px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 300px;
+}
+
+#start{
+  background: linear-gradient(to right, aqua, aquamarine);
+}
+
+#stop{
+  background: linear-gradient(to right, red, rgb(240,128,128))
+}
+
+.outputbox{
+  width: 100%;
+  max-width: 800px;
+  margin-top: 30px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#erkanntertext{
+  font-weight: 800;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  border: 2px solid black;
+  border-radius: 300px;
+}
+
+
+.outputtext{
+  user-select: none;
+  margin-top: 10px;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  border: 2px solid rgb(159, 247, 218);
+  border-radius: 300px;
+  padding: 30px
 }
