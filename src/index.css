@@ -1,5 +1,7 @@
 html{
-  
+  margin: 0;
+  padding: 0;
+  text-align: center;
   min-height: 100vh;
   min-width: 100vw;
 }
@@ -11,13 +13,14 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: fixed;
+  position: relative;
 
   user-select: none;
   min-width: 100vw;
   min-height: 100vh;
   display: flex;
   justify-content: center;
+  padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

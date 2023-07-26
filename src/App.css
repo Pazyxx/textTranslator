@@ -2,10 +2,12 @@
   font-size: 1.25em;
   font-family: "inconsolata", sans-serif;
   margin-top: 30px;
+  margin-bottom: 30px;
   width: 80vw;
-  height: 100vh;
+  height: auto;
   display: flex;
   flex-direction: column;
+  align-items: center;
   align-items: center;
 
 }
@@ -61,5 +63,5 @@ button{
   height: auto;
   border: 2px solid rgb(159, 247, 218);
   border-radius: 30px;
-  padding: 30px
+  padding: 20px
 }
